@@ -3,6 +3,9 @@
 
 full code : 
 https://github.com/clement-chupin/PointNet_classify_ModelNet/blob/main/main_CHUPIN_VILLENEUVE.ipynb
+
+report :
+https://github.com/clement-chupin/PointNet_classify_ModelNet/blob/main/doc/Rapport_projet_IA_3D.pdf
   
 
 
